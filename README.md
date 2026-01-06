@@ -1,4 +1,7 @@
-## Hi there 👋
+## Oi, sou Vicente Gabriel Loiola Souza.
+
+### Sou estudante de programação, faço Sistemas de Informações no IFS - Campus Lagarto, estou no 5º período.
+
 
 <!--
 **vicentegabriells/vicentegabriells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
