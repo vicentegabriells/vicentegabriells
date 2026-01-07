@@ -12,8 +12,10 @@
 </div>
 
 ### Minhas Stacks🚀
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,py,git,github,html,css,flutter,firebase,postgres,vscode,idea,eclipse,ubuntu,linux" /> </p>
+<div>
+  <p>Tecnologias e ferramentes que já estudei e utilizo.</p>
+  <p align="left"> <img src="https://skillicons.dev/icons?i=java,js,py,git,github,html,css,flutter,firebase,postgres,vscode,idea,ubuntu,linux,windows" /> </p>
+</div>
 
 ### Minhas Estatisticas
 
