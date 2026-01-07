@@ -7,7 +7,7 @@
 ### Mas quem é *Vicente*?🤔
 <div>
   <p>
-    Meu nome completo é Vicente Gabriel Loiola Souza. Atualmente no 5º período de Sistemas de Informação no IFS Lagarto, venho construindo minha base técnica com foco constante em evolução. Minha facilidade em absorver novas tecnologias me permite explorar diversas Stacks, mas meu verdadeiro interesse hoje está no Frontend Mobile💻📲
+    Meu nome completo é Vicente Gabriel Loiola Souza. Atualmente no 5º período de Sistemas de Informação no IFS Lagarto, venho construindo minha base técnica com foco constante em evolução. Minha facilidade em absorver novas tecnologias me permite explorar diversas Stacks, mas meu verdadeiro interesse hoje está no Frontend Mobile.💻📲
   </p>
 </div>
 
